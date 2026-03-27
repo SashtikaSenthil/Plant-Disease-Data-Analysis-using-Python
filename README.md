@@ -4,7 +4,7 @@ This project focuses on analyzing a plant disease dataset using various data sci
 
 The dataset contains information related to plant conditions and disease indicators. Using Python and popular data science libraries, the project performs end-to-end analysis including data preprocessing, statistical analysis, visualization, and predictive modeling.
 
-🔧 Features Implemented
+🔧 Features Implemented 
 Data Cleaning:
 Missing values are handled using appropriate techniques such as mean replacement. Irrelevant or non-numeric data is filtered to ensure accurate analysis.
 Exploratory Data Analysis (EDA):
